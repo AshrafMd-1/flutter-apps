@@ -1,13 +1,19 @@
 # Source code
-These apps have the main code to create the apps.
+Each folder is a project with source code for individual app
 
-They may have project folders containing:-
+These folders within each project have the main code to create the apps.
+
+These projects may not have all the folders.
+
+They have only the most important folders which are used for building apps
+
+These projects may only have folders such as:-
 
     lib
     assets   
     pubspec.yaml
     res(android)
-    
-These files may not have all the folders.
 
-So just make a sample program and then replace the default folders with these and run it.
+When building these projects just make a sample program and then replace the default folders with provided folders and run it.
+
+You will get the same results.
