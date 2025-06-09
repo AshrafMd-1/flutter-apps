@@ -1,7 +1,8 @@
-# Flutter-apps
-These are some simple apps made using flutter architecture.
+# Flutter Apps
 
-The apk are avilable in the folder apk.
+> 📦 **Archived** – This project has been archived as it was created during the learning phase and is retained for reference purposes.
 
-The source code of the files is in the source folder.
+This repository contains a collection of simple apps built using Flutter.
 
+* **APK files** are available in the `apk` folder.
+* **Source code** is located in the `source` folder.
